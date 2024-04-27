@@ -1,0 +1,6 @@
+mon
+tue
+wed
+thr
+fri
+sat
